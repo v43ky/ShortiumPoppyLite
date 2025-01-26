@@ -103,7 +103,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 
 **After creating the credentials, download the JSON file.🔥**
 - Use this file in the program by selecting it through the Select Client's Secret File option in the UI.
-- 
+  
 ## **Tips and Notes📒**
 - Repeat this process for all additional channels you want to manage.
 - Complete the authentication immediately after selecting the client secret file.
@@ -119,7 +119,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 
 ## *Templates💨*: 
 - Create and manage templates for video titles, descriptions, and tags.
-- 
+  
 ## *Custom Scheduling🤖*:
 - Schedule video uploads at specific times.
 - Assign videos to templates for automated uploads with predefined metadata.
