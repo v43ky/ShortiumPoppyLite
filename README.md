@@ -28,12 +28,12 @@ This program is designed to help you automate YouTube video uploads with advance
 ---
 
 ## **How to Run🏃‍♂️**
+**Run the .exe file attached.**
+OR
 1. Clone this repository to your local system:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-2. Or Run the .exe file attached.
+   git clone https://github.com/v43ky/ShortiumPoppyLite.git
+   cd ShortiumPoppyLite
 
 
 Install dependencies:
@@ -44,18 +44,19 @@ Install dependencies:
 
 ## **Run the program:**
    ```bash
-python youtube_automation.py
+python shortiumpoppy_lite.py
 ```
 
 ---
 
 ## **How to Use🤩**
 
-1. **Create a Client Secret file.🎉🔥**
-2. **Link folder Containing Videos.😎**
-3. **Start Upload Automating!🔥🔥**
+1. **When you run the Program, the Directory and folders everything will be created in your Documents Automatically!🥰**
+2. **Create a Client Secret file.🎉🔥**
+3. **Link folder Containing Videos.😎**
+4. **Start Upload Automating!🔥🔥**
 
-## **How to Get Client Secret file🤔💭**
+## **1. How to Get Client Secret file🤔💭**
 
 Watch this video [https://www.youtube.com/watch?v=v6YEZC6XX2g] Or read the Guide Below!
 
@@ -114,7 +115,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
   
 ---
 
-## **ShortiumPoppy Features:💻🚀**
+## **2. ShortiumPoppy Features:💻🚀**
 
 ## *Templates💨*: 
 - Create and manage templates for video titles, descriptions, and tags.
@@ -142,7 +143,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - The remaining quota is displayed in the main interface and resets daily.
 
 ---
-# ShortiumPoppy Automation Program - Complete Version (Launching Soon!)
+# 🚀ShortiumPoppy Automation Program - Complete Version (Launching Soon!)🔥🔥
 
 ![Full Version](images/1.png)
 
@@ -179,7 +180,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 
 ## **Contributing🥰🥰**
 Contributions are welcome for the Lite version and the Complete version!
-- will launch Updated versions from Time to Time by your feedback!
+- Will launch Updated versions from Time to Time by your feedback!
 
 ---
 
