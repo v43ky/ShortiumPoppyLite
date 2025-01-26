@@ -75,11 +75,30 @@ python youtube_automation.py
 ---
 # ShortiumPoppy Automation Program - Complete Version (Soon Launching)
 
-
-
-
+![Full Version](images/1.png)
 
 ---
+## **Features**
+## **Key Features of the Complete Version**
+## Multi-Channel Management:
+- Allow users to manage multiple YouTube channels.
+- Create Multiple Instances, Link them and Manage!
+- Store separate templates, schedules, and quotas for each channel.
+- Has Separate Chrome Instances for Each Channel enablng you to Check Each Channel's Analytics
+
+## Enhanced Template Management:
+- Group templates by channel.
+- Allow bulk creation and assignment of templates to videos.
+  
+## Advanced Scheduling:
+- Set recurring schedules for weekly or monthly uploads.
+- Add batch scheduling for multiple videos.
+- 
+## Analytics Dashboard:
+- Show daily quota usage, Schedules, and channel performance stats.
+- View Your Channel's Analytics in the Bot Menu.
+---
+![menu](images/2.png)
 
 ## **Contributing**
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
