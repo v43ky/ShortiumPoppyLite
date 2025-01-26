@@ -7,11 +7,11 @@ This program is designed to help you automate YouTube video uploads with advance
 
 ## **Features**
 - Add, edit, and manage templates for video titles, descriptions, and tags.💖
-- Assign specific videos to templates for automated uploads with predefined metadata.
-- Schedule video uploads at specific times with optional custom templates.
-- Track remaining daily quota and reset it automatically at user's local time.
-- Video preview feature for easy selection and scheduling.
-- Dynamic UI for managing templates and schedules with scrollable lists.
+- Assign specific videos to templates for automated uploads with predefined metadata.🚀
+- Schedule video uploads at specific times with optional custom templates.🤖
+- Track remaining daily quota and reset it automatically at user's local time.👨‍💻
+- Video preview feature for easy selection and scheduling.💫
+- Dynamic UI for managing templates and schedules with scrollable lists.🌌
 
 ![Main](images/main.png)
 
@@ -51,22 +51,21 @@ python youtube_automation.py
 
 ## **How to Use**
 
-1. **Create Client Secret file.**
-2. **Link folder Containing Videos.**
-3. **Start Upload Automating!**
+1. **Create Client Secret file.🎉🔥**
+2. **Link folder Containing Videos.😎**
+3. **Start Upload Automating!🔥🔥**
 
-## **How to Get Client Secret file**
-Steps to Create the Client Secret File
-Create a Google Cloud Project
+## **How to Get Client Secret file🤔💭**
 
 **Go to Google Cloud Console.**
-- Sign in with your Google account.
+- [https://console.cloud.google.com/]
+- Sign in with your Google account. 
 - Click on New Project and create a project (you can name it anything).
 - Enable the YouTube Data API
-
 - In the left-side menu, hover over APIs and Services and click Enabled APIs and Services.
 - Click on Enable APIs and Services.
 - Search for and enable YouTube Data API v3.
+- 
 ## **Set Up OAuth Consent Screen**
 - In the left-side menu, click on OAuth Consent Screen.
 - Select External as the user type and click Create.
