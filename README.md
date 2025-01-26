@@ -51,9 +51,9 @@ python youtube_automation.py
 
 ## **How to Use**
 
-1. Create Client Secret file.
-2. Link folder Containing Videos.
-3. Start Uploading!
+1. **Create Client Secret file.**
+2. **Link folder Containing Videos.**
+3. **Start Automating Upload!**
 
 ## **How to Get Client Secret file**
 Steps to Create the Client Secret File
@@ -74,9 +74,10 @@ Create a Google Cloud Project
 - Your Google account email as the User Support Email.
 - Your personal email in the Developer Contact Information.
 - (Optional) Skip adding additional details like icons or addresses.
-## **Add Scopes**
 
+## **Add Scopes**
 - In the Scopes section, scroll down to Manually Add Scopes.
+
 ## **Add the following scopes:**
 ```
 https://www.googleapis.com/auth/youtube.upload
@@ -86,12 +87,12 @@ https://www.googleapis.com/auth/youtube
 https://www.googleapis.com/auth/youtube.force-ssl
 ```
 - Click Update and Save and Continue.
-- Add Test Users
 
+## **Add Test Users**
 - In the Test Users section, add your Google account email (the one associated with your YouTube channel).
 - Click Save and Continue.
+- 
 ## **Create OAuth Credentials**
-
 - Go back to APIs and Services > Credentials.
 - Click + Create Credentials and select OAuth Client ID.
 - Choose Desktop App as the application type and name it anything.
@@ -110,6 +111,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
   
 ---
 
+## **ShortiumPoppy Features:**
 ## *Templates*: 
 - Create and manage templates for video titles, descriptions, and tags.
 ## *Custom Scheduling*:
@@ -117,16 +119,16 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - Assign videos to templates for automated uploads with predefined metadata.
 ## *Quota Tracker*: 
 - Track your remaining daily quota, which resets at 12 PM UAE time.
-## **Creating and Using Templates**
+## *Creating and Using Templates*:
 - Navigate to the Manage Templates section.
 - Enter the title, description, and tags for your template.
 - Save the template and assign specific videos if needed.
 - Use the "Use" button to select a template for future uploads.
-## **Scheduling Video Uploads:**
+## *Scheduling Video Uploads*:
 - Select a video from your folder.
 - Set the desired upload time in the format HH:MM:SS.
 - Click Save Schedule. The video will upload automatically at the scheduled time.
-## **Quota Management:**
+## *Quota Management*:
 - Quota is deducted for each upload.
 - The remaining quota is displayed in the main interface and resets daily.
 
