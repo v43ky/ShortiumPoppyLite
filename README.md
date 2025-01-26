@@ -138,8 +138,8 @@ https://www.googleapis.com/auth/youtube.force-ssl
 ![Full Version](images/1.png)
 
 ---
-## **Features**
 ## **Key Features of the Complete Version**
+---
 ## Multi-Channel Management:
 - Allow users to manage multiple YouTube channels.
 - Create Multiple Instances, Link them and Manage!
@@ -159,6 +159,8 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - View Your Channel's Analytics in the Bot Menu.
 ---
 ![menu](images/2.png)
+
+---
 
 ## **Contributing**
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
