@@ -1,3 +1,4 @@
+![Banner](images/banner.png)
 # ShortiumPoppy Automation Program (Lite Version)
 
 This program is designed to help you automate YouTube video uploads with advanced scheduling, template management, and custom features. It's a lightweight version with essential functionalities for managing your YouTube uploads efficiently.
