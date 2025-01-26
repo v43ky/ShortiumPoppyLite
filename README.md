@@ -13,6 +13,11 @@ This program is designed to help you automate YouTube video uploads with advance
 - Video preview feature for easy selection and scheduling.
 - Dynamic UI for managing templates and schedules with scrollable lists.
 
+![Main](images/main.png)
+
+---
+![Template](images/Template.png)
+
 ---
 
 ## **Prerequisites**
@@ -52,10 +57,10 @@ python youtube_automation.py
 *Custom Scheduling*: Schedule video uploads at specific times. Assign videos to templates for automated uploads with predefined metadata.
 *Quota Tracker*: Track your remaining daily quota, which resets at 12 PM UAE time.
 2. **Creating and Using Templates*
--Navigate to the Manage Templates section.
--Enter the title, description, and tags for your template.
--Save the template and assign specific videos if needed.
--Use the "Use" button to select a template for future uploads.
+- Navigate to the Manage Templates section.
+- Enter the title, description, and tags for your template.
+- Save the template and assign specific videos if needed.
+- Use the "Use" button to select a template for future uploads.
 3. **Scheduling Video Uploads**
 -Select a video from your folder.
 -Set the desired upload time in the format HH:MM:SS.
