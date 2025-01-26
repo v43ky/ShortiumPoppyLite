@@ -67,7 +67,7 @@ Watch this video [https://www.youtube.com/watch?v=v6YEZC6XX2g] Or read the Guide
 - In the left-side menu, hover over APIs and Services and click Enabled APIs and Services.
 - Click on Enable APIs and Services.
 - Search for and enable YouTube Data API v3.
-- 
+  
 ## **Set Up OAuth Consent Screen💨**
 - In the left-side menu, click on the OAuth Consent Screen.
 - Select External as the user type and click Create.
@@ -107,7 +107,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - Repeat this process for all additional channels you want to manage.
 - Complete the authentication immediately after selecting the client secret file.
 - If you see a warning that the file isn't verified, click Continue to complete the process.
-- 
+  
 ## **Final Step: Authentication🌟**
 - The program will open your browser for Google account verification once the client secret file is uploaded.
 - Complete the authentication process, and you're ready to start uploading videos!
@@ -122,21 +122,21 @@ https://www.googleapis.com/auth/youtube.force-ssl
 ## *Custom Scheduling🤖*:
 - Schedule video uploads at specific times.
 - Assign videos to templates for automated uploads with predefined metadata.
-- 
+  
 ## *Quota Tracker💻*: 
 - Track your remaining daily quota, which resets on user's local midnight time.
-- 
+  
 ## *Creating and Using Templates🔥*:
 - Navigate to the Manage Templates section.
 - Enter the title, description, and tags for your template.
 - Save the template and assign specific videos if needed.
 - Use the "Use" button to select a template for future uploads.
-- 
+  
 ## *Scheduling Video Uploads😜*:
 - Select a video from your folder.
 - Set the desired upload time in the format HH:MM:SS.
 - Click Save Schedule. The video will upload automatically at the scheduled time.
-- 
+  
 ## *Quota Management💸*:
 - Quota is deducted for each upload.
 - The remaining quota is displayed in the main interface and resets daily.
@@ -168,7 +168,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - Set recurring schedules for weekly or monthly uploads.
 - Add batch scheduling for multiple videos.
 - Customize Scheduling for each Video to Specific times.
-- 
+  
 ## Analytics Dashboard🧑‍💻:
 - Show daily quota usage, Schedules, and channel performance stats.
 - View Your Channel's Analytics in the Bot UI.
