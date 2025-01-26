@@ -1,12 +1,12 @@
 ![Banner](images/banner.png)
-# ShortiumPoppy Automation Program (Lite Version)
+# ShortiumPoppy Automation Program (Lite Version)💫
 
 This program is designed to help you automate YouTube video uploads with advanced scheduling, template management, and custom features. It's a lightweight version with essential functionalities for managing your YouTube uploads efficiently.
 
 ---
 
 ## **Features**
-- Add, edit, and manage templates for video titles, descriptions, and tags.
+- Add, edit, and manage templates for video titles, descriptions, and tags.💖
 - Assign specific videos to templates for automated uploads with predefined metadata.
 - Schedule video uploads at specific times with optional custom templates.
 - Track remaining daily quota and reset it automatically at user's local time.
@@ -51,7 +51,65 @@ python youtube_automation.py
 
 ## **How to Use**
 
-**Main Interface**
+1. Create Client Secret file.
+2. Link folder Containing Videos.
+3. Start Uploading!
+
+## **How to Get Client Secret file**
+Steps to Create the Client Secret File
+Create a Google Cloud Project
+
+**Go to Google Cloud Console.**
+- Sign in with your Google account.
+- Click on New Project and create a project (you can name it anything).
+- Enable the YouTube Data API
+
+- In the left-side menu, hover over APIs and Services and click Enabled APIs and Services.
+- Click on Enable APIs and Services.
+- Search for and enable YouTube Data API v3.
+## **Set Up OAuth Consent Screen**
+- In the left-side menu, click on OAuth Consent Screen.
+- Select External as the user type and click Create.
+- Customize your app name and enter:
+- Your Google account email as the User Support Email.
+- Your personal email in the Developer Contact Information.
+- (Optional) Skip adding additional details like icons or addresses.
+## **Add Scopes**
+
+- In the Scopes section, scroll down to Manually Add Scopes.
+## **Add the following scopes:**
+```
+https://www.googleapis.com/auth/youtube.upload
+https://www.googleapis.com/auth/youtube.readonly
+https://www.googleapis.com/auth/yt-analytics.readonly
+https://www.googleapis.com/auth/youtube
+https://www.googleapis.com/auth/youtube.force-ssl
+```
+- Click Update and Save and Continue.
+- Add Test Users
+
+- In the Test Users section, add your Google account email (the one associated with your YouTube channel).
+- Click Save and Continue.
+## **Create OAuth Credentials**
+
+- Go back to APIs and Services > Credentials.
+- Click + Create Credentials and select OAuth Client ID.
+- Choose Desktop App as the application type and name it anything.
+- Click Create.
+- Download the JSON File
+
+**After creating the credentials, download the JSON file.**
+- Use this file in the program by selecting it through the Select Client's Secret File option in the UI.
+## **Tips and Notes**
+- Repeat this process for all additional channels you want to manage.
+- Complete the authentication immediately after selecting the client secret file.
+- If you see a warning that the file isn't verified, click Continue to complete the process.
+## **Final Step: Authentication**
+- Once the client secret file is uploaded, the program will open your browser for Google account verification.
+- Complete the authentication process, and you're ready to start uploading videos!
+  
+---
+
 ## *Templates*: 
 - Create and manage templates for video titles, descriptions, and tags.
 ## *Custom Scheduling*:
@@ -93,7 +151,7 @@ python youtube_automation.py
 ## Advanced Scheduling:
 - Set recurring schedules for weekly or monthly uploads.
 - Add batch scheduling for multiple videos.
-- 
+- Custom Schedule Each Video to Specific times
 ## Analytics Dashboard:
 - Show daily quota usage, Schedules, and channel performance stats.
 - View Your Channel's Analytics in the Bot Menu.
