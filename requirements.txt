@@ -1,0 +1,10 @@
+google_api_python_client==2.154.0
+google_auth_oauthlib==1.2.1
+numpy==2.2.2
+opencv_python==4.10.0.84
+Pillow==11.1.0
+plyer==2.1.0
+protobuf==5.29.3
+pystray==0.19.5
+selenium==4.28.1
+tzlocal==5.2
