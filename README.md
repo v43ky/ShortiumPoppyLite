@@ -52,46 +52,36 @@ python youtube_automation.py
 
 ## **How to Use**
 
-1. **Main Interface**
+**Main Interface**
 *Templates*: Create and manage templates for video titles, descriptions, and tags.
 *Custom Scheduling*: Schedule video uploads at specific times. Assign videos to templates for automated uploads with predefined metadata.
 *Quota Tracker*: Track your remaining daily quota, which resets at 12 PM UAE time.
-2. **Creating and Using Templates*
+**Creating and Using Templates**
 - Navigate to the Manage Templates section.
 - Enter the title, description, and tags for your template.
 - Save the template and assign specific videos if needed.
 - Use the "Use" button to select a template for future uploads.
-3. **Scheduling Video Uploads**
--Select a video from your folder.
--Set the desired upload time in the format HH:MM:SS.
--Click Save Schedule. The video will upload automatically at the scheduled time.
-4. **Quota Management**
--Quota is deducted for each upload.
--The remaining quota is displayed in the main interface and resets daily.
+**Scheduling Video Uploads:**
+- Select a video from your folder.
+- Set the desired upload time in the format HH:MM:SS.
+- Click Save Schedule. The video will upload automatically at the scheduled time.
+**Quota Management:**
+- Quota is deducted for each upload.
+- The remaining quota is displayed in the main interface and resets daily.
+
 
 ---
 
-Screenshots
-Main Interface
-
-Template Management
-
-Custom Scheduling
-
-Adding Images to the Repository
-
----
-
-**Contributing**
+## **Contributing**
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
 
 ---
 
-**License**
+## **License**
 This project is licensed under the MIT License.
 
 ---
 
-**Contact**
+## **Contact**
 For questions or support, feel free to contact [shootashortservice@gmail.com].
 
