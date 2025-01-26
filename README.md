@@ -16,7 +16,7 @@ This program is designed to help you automate YouTube video uploads with advance
 ![Main](images/main.png)
 
 ---
-![Template](images/Template.png)
+![Template](images/template.png)
 
 ---
 
