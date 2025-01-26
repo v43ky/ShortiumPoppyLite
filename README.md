@@ -51,7 +51,7 @@ python youtube_automation.py
 
 ## **How to Use🤩**
 
-1. **Create Client Secret file.🎉🔥**
+1. **Create a Client Secret file.🎉🔥**
 2. **Link folder Containing Videos.😎**
 3. **Start Upload Automating!🔥🔥**
 
@@ -69,10 +69,10 @@ Watch this video [https://www.youtube.com/watch?v=v6YEZC6XX2g] Or read the Guide
 - Search for and enable YouTube Data API v3.
 - 
 ## **Set Up OAuth Consent Screen💨**
-- In the left-side menu, click on OAuth Consent Screen.
+- In the left-side menu, click on the OAuth Consent Screen.
 - Select External as the user type and click Create.
 - Customize your app name and enter:
-- Your Google account email as the User Support Email.
+- Your Google account email is the User Support Email.
 - Your personal email in the Developer Contact Information.
 - (Optional) Skip adding additional details like icons or addresses.
 
@@ -109,7 +109,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - If you see a warning that the file isn't verified, click Continue to complete the process.
 - 
 ## **Final Step: Authentication🌟**
-- Once the client secret file is uploaded, the program will open your browser for Google account verification.
+- The program will open your browser for Google account verification once the client secret file is uploaded.
 - Complete the authentication process, and you're ready to start uploading videos!
   
 ---
@@ -124,7 +124,7 @@ https://www.googleapis.com/auth/youtube.force-ssl
 - Assign videos to templates for automated uploads with predefined metadata.
 - 
 ## *Quota Tracker💻*: 
-- Track your remaining daily quota, which resets at 12 PM UAE time.
+- Track your remaining daily quota, which resets on user's local midnight time.
 - 
 ## *Creating and Using Templates🔥*:
 - Navigate to the Manage Templates section.
@@ -151,14 +151,14 @@ https://www.googleapis.com/auth/youtube.force-ssl
 ---
 
 ## Multiple Devices Integration🌟🔥:
-- Based on Purchase, You can Copy and Run the Complete program in multiple PCs/Servers with You License file *(That you obtain via email)* All At Once!🚀🚀
-- Manage More than 15 Channels Automating Upload!
+- Based on Purchase, You can Copy and Run the Complete program in **MULTIPLE** PCs/Servers with your license file *(That you obtain via Email)* All At Once!🚀🚀
+- Manage More than 25 Channels Automating Upload and Multiplying Your Success Rate!
 
 ## Multi-Channel Management🥳🥳:
 - Allow users to manage multiple YouTube channels.
-- Create Multiple Instances, Link them and Manage!
+- Create Multiple Instances, Link them, and Manage them!
 - Store separate templates, schedules, and quotas for each channel.
-- Has Separate Chrome Instances for Each Channel enablng you to Check Each Channel's Analytics
+- Has Separate Chrome Instances for Each Channel enabling you to Check Each Channel's Analytics
 
 ## Enhanced Template Management🤯🤯:
 - Group templates by channel.
@@ -167,27 +167,27 @@ https://www.googleapis.com/auth/youtube.force-ssl
 ## Advanced Scheduling🌟:
 - Set recurring schedules for weekly or monthly uploads.
 - Add batch scheduling for multiple videos.
-- Custom Schedule Each Video to Specific times.
+- Customize Scheduling for each Video to Specific times.
 - 
 ## Analytics Dashboard🧑‍💻:
 - Show daily quota usage, Schedules, and channel performance stats.
-- View Your Channel's Analytics in the Bot Menu.
+- View Your Channel's Analytics in the Bot UI.
 ---
 ![menu](images/2.png)
 
 ---
 
 ## **Contributing🥰🥰**
-Contributions are welcome for the Lite version and complete version!
-- will launch Updated versions of them Through your feedbacks too!!
+Contributions are welcome for the Lite version and the Complete version!
+- will launch Updated versions from Time to Time by your feedback!
 
 ---
 
 ## **License📁**
-Obtain the license file via the Email [shootashortservice@gmail.com] for the **Complete Version**, after it is Launched and Bought By You.
+- Obtain the license file via the Email [shootashortservice@gmail.com] for the **Complete Version**, after it is Launched and Bought By You.
 - **Lite Version** is Free To Use for All!
 
 ---
 
 ## **Contact🤙📞**
-For questions or support, feel free to contact [shootashortservice@gmail.com].
+If you have any questions or need any help, please feel free to contact [shootashortservice@gmail.com].
