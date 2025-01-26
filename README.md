@@ -33,6 +33,8 @@ This program is designed to help you automate YouTube video uploads with advance
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
+2. Or Run the .exe file attached.
+
 
 Install dependencies:
 
@@ -50,9 +52,13 @@ python youtube_automation.py
 ## **How to Use**
 
 **Main Interface**
-## *Templates*: Create and manage templates for video titles, descriptions, and tags.
-## *Custom Scheduling*: Schedule video uploads at specific times. Assign videos to templates for automated uploads with predefined metadata.
-## *Quota Tracker*: Track your remaining daily quota, which resets at 12 PM UAE time.
+## *Templates*: 
+- Create and manage templates for video titles, descriptions, and tags.
+## *Custom Scheduling*:
+- Schedule video uploads at specific times.
+- Assign videos to templates for automated uploads with predefined metadata.
+## *Quota Tracker*: 
+- Track your remaining daily quota, which resets at 12 PM UAE time.
 ## **Creating and Using Templates**
 - Navigate to the Manage Templates section.
 - Enter the title, description, and tags for your template.
@@ -65,6 +71,12 @@ python youtube_automation.py
 ## **Quota Management:**
 - Quota is deducted for each upload.
 - The remaining quota is displayed in the main interface and resets daily.
+
+---
+# ShortiumPoppy Automation Program - Complete Version (Soon Launching)
+
+
+
 
 
 ---
