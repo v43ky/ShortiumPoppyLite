@@ -53,7 +53,7 @@ python youtube_automation.py
 
 1. **Create Client Secret file.**
 2. **Link folder Containing Videos.**
-3. **Start Automating Upload!**
+3. **Start Upload Automating!**
 
 ## **How to Get Client Secret file**
 Steps to Create the Client Secret File
